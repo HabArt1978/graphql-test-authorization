@@ -5,7 +5,7 @@
 Clone the project repository by running the command below
 
 ```bash
-git clone https://github.com/saneksa/graphql-test-authorization.git
+git clone [https://github.com/saneksa/graphql-test-authorization.git](https://github.com/SirPeace/graphql-test-authorization.git)
 ```
 
 After cloning, run:
